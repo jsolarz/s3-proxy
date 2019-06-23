@@ -1,5 +1,5 @@
 {
-  "name": "s3-proxy",
+  "name": "s3-proxy-middleware",
   "version": "1.1.2",
   "description": "Streaming http proxy Express middleware for fetching objects from S3",
   "main": "index.js",
@@ -23,9 +23,9 @@
     "index.js",
     "lib"
   ],
-  "author": "David Von Lehman (https://github.com/dvonlehman)",
+  "author": "Ioni Solarz (https://github.com/jsolarz)",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/dvonlehman/s3-proxy",
+  "homepage": "https://github.com/jsolarz/s3-proxy",
   "dependencies": {
     "async": "^2.0.0-rc.3",
     "aws-config": "^1.0.7",
